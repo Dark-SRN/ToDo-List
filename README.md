@@ -9,10 +9,10 @@ This is a python program created for the purpose of creating a list to organize 
 ---
 
 # Functions
-a - Add Tasks To The List With Priorities Tied to Each one
-r - Remove A Specific Task From The List
-c - Clears The Entire List
-v - View The To Do List
+a - Add Tasks To The List With Priorities Tied to Each one\n
+r - Remove A Specific Task From The List\n
+c - Clears The Entire List\n
+v - View The To Do List\n
 q - Quits The Program
 
 ---
